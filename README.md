@@ -177,6 +177,22 @@ Email support@cygox.com or [contact the CYGOX AI team](https://cygox.com/contact
 
 ---
 
+## In the press
+
+Coverage of CYGOX AI in the financial and technology press. Figures quoted in an article reflect the live records as they stood on its publication date; the current numbers are in the verified-records table above.
+
+| Outlet | Article |
+|---|---|
+| Yahoo Finance | [CYGOX AI Asset Specialist Bots: One Market, One Expert](https://finance.yahoo.com/markets/options/articles/cygox-ai-asset-specialist-bots-105400417.html) |
+| Business Insider | [CYGOX AI Expands Team With 21 New Hires Across All Teams](https://markets.businessinsider.com/news/currencies/cygox-ai-expands-team-with-21-new-hires-across-all-teams-1036453334) |
+| Binance Square | [CYGOX AI Transparency: 3,015 Days of Verified Live Results](https://www.binance.com/en/square/post/355268541637090) |
+| StreetInsider | [CYGOX AI Explained: A Simple Guide to Automated Trading](https://www.streetinsider.com/Globe+PR+Wire/CYGOX+AI+Explained%3A+A+Simple+Guide+to+Automated+Trading/26910071.html) |
+| TechBullion | [CYGOX AI Risk Management: How Every Trade Is Protected](https://techbullion.com/cygox-ai-risk-management-how-every-trade-is-protected/) |
+| FinanceWire | [CYGOX AI Expands Team With 21 New Hires Across All Teams](https://financewire.com/2026/08/13/cygox-ai-expands-team-with-21-new-hires-across-all-teams/) |
+| Programming Insider | [CYGOX AI 24/7 Trading: London, New York and Asia Sessions](https://programminginsider.com/cygox-ai-24-7-trading-london-new-york-and-asia-sessions/) |
+
+---
+
 ## Official CYGOX AI links
 
 | Resource | Link |
